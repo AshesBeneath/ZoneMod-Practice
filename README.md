@@ -1,10 +1,14 @@
 # ZoneMod Practice
  Practice feature for L4D2 confogl matchmode ZoneMod
  except some changes for easier practice experience, it is nothing but usual **ZoneMod 1.9.8**
+
+### Prerequisites
+
+ * ZoneMod 1.9.8 plugin structures and stripper files. 
  
 ### Features?
 
- * ReadyUp disabled (This was reqired for one of config's specific feature: No 4v4, 1v1, etc. restriction)
+ * ReadyUp disabled (This was required for one of config's specific feature: No 4v4, 1v1, etc. restriction)
 
  * Near instant spawn time for special infected.
 
@@ -21,6 +25,8 @@
  * Disabled commons and hordes (except some director-forced, scripted ones in custom campaigns)
 
  * Flow tank disabled (As players can become tank at any time they wish by simply choosing tank for their infected class)
+
+ * Infected ghosts can **toggle** fly mode with RELOAD button, you can't spawn while in fly mode
  
  
 ### Plugin Sources?
