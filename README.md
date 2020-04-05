@@ -40,4 +40,4 @@
 
  **devilesk** for [RL4D2L Practice config](https://github.com/devilesk/ZoneMod/tree/master/cfg/cfgogl/practice) and some codes found on his repos (where this idea is based on)
 
- **epilimic** for Practiceogl and Witch Party configs
+ **epilimic** and **CanadaRox** for their contributions in Practiceogl and Witch Party configs
